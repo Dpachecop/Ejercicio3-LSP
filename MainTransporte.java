@@ -1,4 +1,4 @@
-public class Main {
+public class MainTransporte {
     public static void main(String[] args) {
         Transporte bicicleta = new Bicicleta();
         bicicleta.acelerar(10);
